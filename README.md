@@ -3,6 +3,8 @@ Experimental Design under the Bradley-Terry Model
 
 The code in this repository provides a framework for experimental design algorithm for pairwise data. In particular, the algorithms implemented are described in the paper 
 
+##Source Citation## 
+Please cite the following paper if you intend to use this code for your research.
 >Experimental Design Under the Bradley-Terry Model.
 >Yuan Guo, Peng Tian, Jayashree Kalpathy-Cramer, Susan Ostmo,
 J.Peter Campbell, Michael F.Chiang, Deniz Erdo˘gmu¸s, Jennifer Dy and Stratis Ioannidis.
@@ -24,7 +26,7 @@ sklearn
 Logistic function for feature vector x, label y, parameter \beta.
 
 ##### Function `shermanMorissonUpdate`: #####
-Sherman Morrison formular for A^{-1}
+Sherman Morrison formula for A^{-1}
 
 ##### Function `EMupdateVariational`: #####
 The variational bayesian for logistic regression with prior Gaussian distribution with mean mu0 and covariance Sigma0.
@@ -64,17 +66,13 @@ The algorithms are:
 
 #####  `Fisher Information`: #####
 
-We resort the equation (8) in paper:
-```
-@inproceedings{hoi2006batch,
-  title={Batch mode active learning and its application to medical image classification},
-  author={Hoi, Steven CH and Jin, Rong and Zhu, Jianke and Lyu, Michael R},
-  booktitle={Proceedings of the 23rd international conference on Machine learning},
-  pages={417--424},
-  year={2006},
-  organization={ACM}
-}
-```
+We use the equation (8) in paper:
+>Batch mode active learning and its application to medical image classification
+>Steven C. H. Hoi, Rong Jin, Jianke Zhu, Michael R. Lyu.
+>(ICML 2006)
+
+
+
 
 
 
