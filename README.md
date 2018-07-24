@@ -69,7 +69,7 @@ We use the equation (8) in paper:
 >Steven C. H. Hoi, Rong Jin, Jianke Zhu, Michael R. Lyu.
 >(ICML 2006)
 
-## Citing this paper ## 
+## Citing This Paper ## 
 
 Please cite the following paper if you intend to use this code for your research.
 >Experimental Design Under the Bradley-Terry Model.
