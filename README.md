@@ -3,7 +3,8 @@ Experimental Design under the Bradley-Terry Model
 
 The code in this repository provides a framework for experimental design algorithm for pairwise data. In particular, the algorithms implemented are described in the paper 
 
-##Source Citation## 
+## Source Citation ## 
+
 Please cite the following paper if you intend to use this code for your research.
 >Experimental Design Under the Bradley-Terry Model.
 >Yuan Guo, Peng Tian, Jayashree Kalpathy-Cramer, Susan Ostmo,
