@@ -78,5 +78,7 @@ J.Peter Campbell, Michael F.Chiang, Deniz Erdo˘gmu¸s, Jennifer Dy and Stratis 
 >(IJCAI 2018)
 
 
+## Acknowledgement
 
+Our work is supported by NIH (R01EY019474, P30EY10572), NSF (SCH-1622542 at MGH; SCH-1622536 at Northeastern; SCH-1622679 at OHSU), and by unrestricted departmental funding from Research to Prevent Blindness (OHSU).
 
